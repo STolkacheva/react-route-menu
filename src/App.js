@@ -13,7 +13,7 @@ export default function App() {
         <Route path="/" element={<HomePage />} />
         <Route path="/drift" element={<DriftPage />} />
         <Route path="/timeattack" element={<TimeAttackPage />} />
-        <Route path="/forza" element={<ForzaPage />} /> {/*  */}
+        <Route path="/forza" element={<ForzaPage />} />
       </Routes>
     </BrowserRouter>
   );
