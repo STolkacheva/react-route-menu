@@ -1,7 +1,7 @@
 import React from "react";
 
 export default function HomePage() {
-    return ( //<div>HomePage</div>
+    return (
       <article className="article">
         <h1 className="article__title">Гоночн​ое такси</h1>
         <p className="article__paragraph">
